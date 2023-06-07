@@ -1,0 +1,41 @@
+form {
+    margin-left:35vw;
+    margin-right:35vw;
+    margin-top: 5vw;
+    margin-bottom: 7vw;
+    padding: 4vw;
+    background-color: rgb(242, 244, 245);
+    border-style: outset;
+}
+fieldset {
+    padding: 3vw;
+    margin: 0vw;
+}
+body {
+    background-image: linear-gradient(blue, violet, pink) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#email {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+#password {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+#label {
+    font-weight: 500px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    margin: 0vw;
+}
+#verification {
+    width: 175px;
+    height: 30px;
+}
